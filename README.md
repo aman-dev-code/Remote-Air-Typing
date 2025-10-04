@@ -16,7 +16,7 @@ Simple and automated server setup.
 
 * Ensure your laptop and smartphone are connected to the same Wi-Fi network.
 * 
-* Download the server file https://github.com/aman-dev-code/Remote-Air-Typing/blob/main/finally\_completed\_server.exe in your laptop.
+* Download the server in your laptop or computer.
 
 
 
